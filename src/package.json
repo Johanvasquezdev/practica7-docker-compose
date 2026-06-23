@@ -1,0 +1,13 @@
+{
+  "name": "practica7-web-app",
+  "version": "1.0.0",
+  "description": "Simple glassmorphism form app with AngularJS, Tailwind CSS, Express, and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
